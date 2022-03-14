@@ -1,0 +1,240 @@
+Uri: https://milangotan.com/
+File Name: D:\Cyotek\milangotan.com\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/category/senza-categoria/
+File Name: D:\Cyotek\milangotan.com\category\senza-categoria\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/category/senza-categoria/feed/
+File Name: D:\Cyotek\milangotan.com\category\senza-categoria\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotan.com/cookie-policy/
+File Name: D:\Cyotek\milangotan.com\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/bellows.min.css
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\bellows.min.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/css/font-awesome.min.css
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://milangotan.com/core/modules/45c2417754/assets/js/bellows.min.js
+File Name: D:\Cyotek\milangotan.com\core\modules\45c2417754\assets\js\bellows.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/core/modules/613a8b2142/assets/infinitescroll/infinite-scroll.pkgd.min.js
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\assets\infinitescroll\infinite-scroll.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/core/modules/613a8b2142/assets/swipebox/img/icons.png
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\assets\swipebox\img\icons.png
+Content Type: image/png
+
+Uri: https://milangotan.com/core/modules/613a8b2142/assets/swipebox/img/loader.gif
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\assets\swipebox\img\loader.gif
+Content Type: image/gif
+
+Uri: https://milangotan.com/core/modules/613a8b2142/assets/swipebox/jquery.swipebox.min.js
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\assets\swipebox\jquery.swipebox.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/core/modules/613a8b2142/assets/swipebox/swipebox.min.css
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\assets\swipebox\swipebox.min.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/613a8b2142/js/front.js
+File Name: D:\Cyotek\milangotan.com\core\modules\613a8b2142\js\front.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/images/td_back.gif
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/public/css/cookie-law-info-gdpr.css
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/public/css/cookie-law-info-public.css
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/public/css/cookie-law-info-table.css
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\public\css\cookie-law-info-table.css
+Content Type: text/css
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/public/images/logo-cookieyes.svg
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\public\images\logo-cookieyes.svg
+Content Type: image/svg+xml
+
+Uri: https://milangotan.com/core/modules/7e4609f00f/public/js/cookie-law-info-public.js
+File Name: D:\Cyotek\milangotan.com\core\modules\7e4609f00f\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/feed/
+File Name: D:\Cyotek\milangotan.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotan.com/il-lunfardo/
+File Name: D:\Cyotek\milangotan.com\il-lunfardo\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/m834bo-autori/cercoedo/
+File Name: D:\Cyotek\milangotan.com\m834bo-autori\cercoedo\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/m834bo-autori/cercoedo/feed/
+File Name: D:\Cyotek\milangotan.com\m834bo-autori\cercoedo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotan.com/m834bo-autori/sabina/
+File Name: D:\Cyotek\milangotan.com\m834bo-autori\sabina\index.htm
+Content Type: text/html
+
+Uri: https://milangotan.com/m834bo-autori/sabina/feed/
+File Name: D:\Cyotek\milangotan.com\m834bo-autori\sabina\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://milangotan.com/m834bo-lib/css/dist/block-library/style.min.css
+File Name: D:\Cyotek\milangotan.com\m834bo-lib\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://milangotan.com/m834bo-lib/js/jquery/jquery-migrate.min.js
+File Name: D:\Cyotek\milangotan.com\m834bo-lib\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/m834bo-lib/js/jquery/jquery.min.js
+File Name: D:\Cyotek\milangotan.com\m834bo-lib\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/m834bo-lib/js/underscore.min.js
+File Name: D:\Cyotek\milangotan.com\m834bo-lib\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/m834bo-lib/js/wp-embed.min.js
+File Name: D:\Cyotek\milangotan.com\m834bo-lib\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/m834bo-storage/2021/12/cropped-favicon_milan_gotan_512-1-180x180.png
+File Name: D:\Cyotek\milangotan.com\m834bo-storage\2021\12\cropped-favicon_milan_gotan_512-1-180x180.png
+Content Type: image/png
+
+Uri: https://milangotan.com/m834bo-storage/2021/12/cropped-favicon_milan_gotan_512-1-192x192.png
+File Name: D:\Cyotek\milangotan.com\m834bo-storage\2021\12\cropped-favicon_milan_gotan_512-1-192x192.png
+Content Type: image/png
+
+Uri: https://milangotan.com/m834bo-storage/2021/12/cropped-favicon_milan_gotan_512-1-32x32.png
+File Name: D:\Cyotek\milangotan.com\m834bo-storage\2021\12\cropped-favicon_milan_gotan_512-1-32x32.png
+Content Type: image/png
+
+Uri: https://milangotan.com/mosaico-tema/96f874eecb/assets/css/print.css
+File Name: D:\Cyotek\milangotan.com\mosaico-tema\96f874eecb\assets\css\print.css
+Content Type: text/css
+
+Uri: https://milangotan.com/mosaico-tema/96f874eecb/assets/css/style-dark-mode.css
+File Name: D:\Cyotek\milangotan.com\mosaico-tema\96f874eecb\assets\css\style-dark-mode.css
+Content Type: text/css
+
+Uri: https://milangotan.com/mosaico-tema/96f874eecb/assets/js/primary-navigation.js
+File Name: D:\Cyotek\milangotan.com\mosaico-tema\96f874eecb\assets\js\primary-navigation.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/mosaico-tema/96f874eecb/assets/js/responsive-embeds.js
+File Name: D:\Cyotek\milangotan.com\mosaico-tema\96f874eecb\assets\js\responsive-embeds.js
+Content Type: application/javascript
+
+Uri: https://milangotan.com/mosaico-tema/96f874eecb/style.css
+File Name: D:\Cyotek\milangotan.com\mosaico-tema\96f874eecb\style.css
+Content Type: text/css
+
+Uri: https://milangotan.com/wp-json/
+File Name: D:\Cyotek\milangotan.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2F
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2F&format=xml
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2Fcookie-policy%2F
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2Fcookie-policy%2F&format=xml
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2Fil-lunfardo%2F
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmilangotan.com%2Fil-lunfardo%2F&format=xml
+File Name: D:\Cyotek\milangotan.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://milangotan.com/wp-json/wp/v2/categories/1
+File Name: D:\Cyotek\milangotan.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/wp/v2/pages/2
+File Name: D:\Cyotek\milangotan.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/wp/v2/posts/1
+File Name: D:\Cyotek\milangotan.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://milangotan.com/wp-json/wp/v2/posts/3486
+File Name: D:\Cyotek\milangotan.com\wp-json\wp\v2\posts\3486
+Content Type: application/json
+
+Uri: https://secure.gravatar.com/avatar/eeab0443f9bfd1349cc32a1ef6510e18?s=170&d=mm&r=g
+File Name: D:\Cyotek\milangotan.com\avatar\eeab0443f9bfd1349cc32a1ef6510e18-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/eeab0443f9bfd1349cc32a1ef6510e18?s=85&d=mm&r=g
+File Name: D:\Cyotek\milangotan.com\avatar\eeab0443f9bfd1349cc32a1ef6510e18.png
+Content Type: image/jpeg
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/f/fa/Gardel_color.jpg
+File Name: D:\Cyotek\milangotan.com\wikipedia\commons\f\fa\Gardel_color.jpg
+Content Type: image/jpeg
+
+Uri: https://ws.sharethis.com/button/st_insights.js?publisher=eba0f3ba-f9ab-408c-bc68-c28af5afe749&product=feather
+File Name: D:\Cyotek\milangotan.com\button\st_insights.js
+Content Type: application/javascript
+
+Uri: https://www.1st-art-gallery.com/frame-preview/36852147.webp?sku=Unframed&thumb=0&huge=1
+File Name: D:\Cyotek\milangotan.com\frame-preview\36852147.webp
+Content Type: image/webp
+
